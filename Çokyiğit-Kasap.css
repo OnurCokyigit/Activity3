@@ -41,9 +41,15 @@ tbody tr:nth-child(even) td {
 
 tbody tr td.Department {
 	background-color: white;
+	vertical-align: top;
+	font-weight: bold;
 }
 
 tbody tr td.right {
 	text-align: right;
 	margin-right: 0em;
+}
+
+.bottom {
+	font-weight: bold;
 }
